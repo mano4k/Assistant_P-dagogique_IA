@@ -13,7 +13,7 @@ Synthèse vocale : résumé lu à voix haute via OpenAI TTS
 Sessions sécurisées : sessions Flask côté serveur, aucune donnée sensible dans les cookies.
 
 Lancement
-git clone https://github.com/YOUR_USERNAME/ai-pedagogical-assistant.git
+git clone https://github.com/mano4k/Assistant_P-dagogique_IA.git
 cd ai-pedagogical-assistant
 pip install -r requirements.txt
 python app.py
